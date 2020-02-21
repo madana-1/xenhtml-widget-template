@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "xenhtml-widget-template",
   "version": "0.1.0",
-  "private": true,
+  "author": "madana-1",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
@@ -16,7 +16,7 @@
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
-    "> 1%",
-    "last 2 versions"
+    "ios_saf 11",
+    "Safari　11"
   ]
 }
